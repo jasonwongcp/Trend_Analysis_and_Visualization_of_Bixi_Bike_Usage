@@ -1,7 +1,7 @@
 # BIXI Montréal Data Analysis 🚴‍♂️
 
 ## Introduction 🌟
-In this report, we'll dive into the usage and factors affecting the popularity of BIXI Bikes, Montreal's bike-sharing system. Our goal is to understand usage patterns, explore station popularity, and provide recommendations for business growth. 📊💼
+In this report, we'll dive into the usage and factors affecting the popularity of BIXI Bikes, Montreal's bike-sharing system. Our goal is to understand usage patterns, explore the data using Tableau, and provide recommendations for business growth. 📊💼
 
 ## Results 📈📊
 
