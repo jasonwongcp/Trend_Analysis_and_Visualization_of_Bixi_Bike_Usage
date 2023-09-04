@@ -6,28 +6,37 @@ In this report, we'll dive into the usage and factors affecting the popularity o
 ## Results 📈📊
 
 ### 1. Increasing Volume of BIXI Bike Usage 📈
+
 Between 2016 and 2017, there was a remarkable 20% increase in the usage of BIXI Bikes. The total number of trips surged from 3,917,401 in 2016 to 4,666,765 in 2017. 📈🆙
 
 ### 2. Factors Affecting BIXI Bike Usage 🌞👥
 #### a. Seasonal Factor 🌤️
+
+<img src="/Monthly%20usage%202106vs2017.png" alt="Increasing Volume of BIXI Bike Usage" width="800"/>
+
 The usage of BIXI Bikes peaked during the summer months (May to September) and declined during the winter (October to April) in both 2016 and 2017. This pattern is influenced by Montreal's climate, with users preferring outdoor activities during the warmer seasons. 🌞❄️
 
+
 #### b. Membership Factor 🚀🏅
+
+<img src="/Trips%20by%20members.png" alt="Membership factor" width="800"/>
+
 In 2017, members took more than 300% more trips than non-members (Member: 3,784,682; Non-member: 883,083). Member retention appears to be successful, with members accounting for 80% of total trips throughout the year. 🚀🏅
 
 ### 3. Learning About How Our Users Use BIXI 🧐🔍
 #### a. Station Popularity 🚀🌆
-The top 5 starting stations are:
-- Mackay / de Maisonneuve
-- Métro Mont-Royal (Rivard / du Mont-Royal)
-- Métro Place-des-Arts (de Maisonneuve / de Bleury)
-- Métro Laurier (Rivard / Laurier)
-- Métro Peel (de Maisonneuve / Stanley)
+<img src="/Top%2010%20population%20stations.png" alt="Top 10 stations" width="800"/>
 
 #### b. Mackay / de Maisonneuve Station Analysis 🏢🔎
 In 2016 and 2017, this station recorded 91,750 starting trips and 99,128 ending trips. The majority of trips occurred during evening and afternoon hours (between 17:00 and 21:00, and between 12:00 and 16:00, respectively). We hypothesize that tourists and office workers are the primary users during these hours. 🕔🚶‍♂️
 
 ### 4. Stations with a High Fraction of Round Trips 🔄🌳
+
+
+
+<img src="/Average%20trips%20duration%20by%20station.png" alt="Average trips duration by station" width="800"/>
+
+
 a. Stations with at least 10% of their trips as round trips are primarily located in parks, including Métro Jean-Drapeau, Métro Angrignon Basile-Routhier / Gouin, and Parc Plage. 🌳🔄
 
 b. This pattern suggests that stations in park areas may have fewer options, leading users to return BIXI Bikes to the starting station more frequently. 🌳🚲
